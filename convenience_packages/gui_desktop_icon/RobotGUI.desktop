@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Robot_GUI
+Exec=bash /usr/local/bin/scripts/launch_gui.sh 
+Icon=/home/robox/Downloads/robot_icon.jpg
+Terminal=true
+MimeType=text/html;text/xml;application/xhtml+xml;application/xml;application/rss+xml;application/rdf+xml;image/gif;image/jpeg;image/png;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ftp;x-scheme-handler/chrome;video/webm;application/x-xpinstall;
+StartupNotify=true
+X-MultipleArgs=false
+X-Desktop-File-Install-Version=0.26

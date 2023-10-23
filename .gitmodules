@@ -1,0 +1,4 @@
+[submodule "convenience_packages/bash_library"]
+	path = convenience_packages/bash_library
+	url = https://github.com/Repo-Factory/BASH_LIBRARY
+	branch = main
